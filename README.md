@@ -62,7 +62,7 @@
  
 <div align="center">
  
-![Ahjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajms1104&show_icons=true&theme=default&bg_color=F8F5F0&title_color=2C3E6B&text_color=5C6B8A&icon_color=2C3E6B&border_color=D8CFC4&border_radius=10&cache_seconds=1800)
+![Ahjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajms1104&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajms1104&layout=compact&theme=default&bg_color=F8F5F0&title_color=2C3E6B&text_color=5C6B8A&border_color=D8CFC4&border_radius=10&cache_seconds=1800)
  
